@@ -782,3 +782,16 @@ blockquote {
 	border-left: 2px solid #ccc;
 	padding-left: 10px;
 }
+
+.pingback a {
+	text-decoration: none;
+	color: #AB9507;
+}
+
+.pingback a:visited {
+	color: #AB9507;
+}
+
+.pingback a:hover {
+	color: #999;
+}
